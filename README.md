@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<samp>
+  My Name is Fakhry.
+  <br>My current work focuses on Mobile application, smart city, and image processing.
+</samp>
 <!--
 **iffakhry/iffakhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
