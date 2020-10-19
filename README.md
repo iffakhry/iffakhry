@@ -3,7 +3,14 @@
 <samp>
   My Name is Fakhry.
   <br>My current work focuses on Mobile application, smart city, and image processing.
+  <br>Looking forward to collaborate with you 😄
 </samp>
+
+<hr>
+
+<div align="center">
+  [![](https://img.shields.io/badge/-Fakhry%20Ikhsan%20Firdaus-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/iffakhry/)
+</div>
 <!--
 **iffakhry/iffakhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
