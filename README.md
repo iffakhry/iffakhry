@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">
-  [![](https://img.shields.io/badge/-Fakhry%20Ikhsan%20Firdaus-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/iffakhry/)
+[![swiftui-version](https://img.shields.io/badge/swiftui-beta-brightgreen)](https://developer.apple.com/documentation/swiftui)
 </div>
 <!--
 **iffakhry/iffakhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
